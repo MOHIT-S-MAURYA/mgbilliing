@@ -81,7 +81,7 @@ lib/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/MOHIT-S-MAURYA/mgbilliing.git
    cd mgbilling
    ```
 
